@@ -1,0 +1,26 @@
+.class {
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    margin: 20px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+.articleClass {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.articleClass1 {
+    background-color: aqua;
+    margin: 15px;
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+}
